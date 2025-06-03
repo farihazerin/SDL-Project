@@ -16,3 +16,23 @@ A modern twist on the classic game, supporting multiple modes and gesture varian
   - Uses a scalable mathematical algorithm — no need for hundreds of `if` statements!
 - **Clean Modular Code**:
   - Easy to read, modify, and extend
+    
+2. UNO Game Logic Flowchart
+A detailed flowchart illustrating the logical flow of a simplified UNO game.
+
+📌 Flowchart Highlights:
+Game Initialization:
+
+Deck creation, shuffling, dealing
+
+Main Game Loop:
+
+Card playability checks, draw logic
+
+Special Cards:
+
++2, Reverse, and Wild +4 logic
+
+Win Condition:
+
+Player wins by discarding all cards
